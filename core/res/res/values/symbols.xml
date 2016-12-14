@@ -2449,6 +2449,9 @@
   <java-symbol type="integer" name="config_navBarOpacityMode" />
   <java-symbol type="color" name="system_bar_background_semi_transparent" />
 
+  <!-- Dynamic Navbar -->
+  <java-symbol type="color" name="input_method_navigation_guard_dynamic" />
+
   <!-- EditText suggestion popup. -->
   <java-symbol type="id" name="suggestionWindowContainer" />
   <java-symbol type="id" name="suggestionContainer" />
